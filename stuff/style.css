@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+
+
+.brand-logo{
+    font-family: 'Courgette', cursive;    
+    letter-spacing: 5px;
+    position: relative;
+    left: 10px;
+}
+
+nav li{
+    letter-spacing: 2px;
+}
+
+.section-follow .fa-4x {
+    margin: 5px 10px;
+  }

@@ -1,0 +1,20 @@
+{
+  "name": "package-json",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "vibgyor"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "stripe": "^6.20.0"
+  }
+}
